@@ -1,4 +1,4 @@
-/* utils.c: spidey utilities */
+/* utils.c: server utilities */
 
 #include "server.h"
 
